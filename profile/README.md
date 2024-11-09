@@ -22,6 +22,6 @@ Ready to transform the way you approach software development? Visit our website 
 If you have any questions or need assistance, feel free to reach out:
 
 - **Email**: [bsh.generator@gmail.com](mailto:bsh.generator@gmail.com)
-- **Website**: [BSH.G](https://wwww.bshgen.com)
+- **Website**: [BSH.G](https://www.bshgen.com/)
 
 Thank you for choosing the Software Project Generator **BSH.G**! We’re excited to help you bring your ideas to life! 💻✨

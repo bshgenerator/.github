@@ -21,7 +21,14 @@ Ready to transform the way you approach software development? Visit our website 
 
 If you have any questions or need assistance, feel free to reach out:
 
-- **Email**: [bsh.generator@gmail.com](mailto:bsh.generator@gmail.com)
-- **Website**: [BSH.G](https://www.bshgen.com/)
+- **Web Site:** [@bsh.generator](https://www.bshgen.com)
+- **Documentaion:** [@bsh.generator](https://docs.bshgen.com)
+- **Instagram:** [@bsh.generator](https://www.instagram.com/bsh.generator/)
+- **LinkedIn:** [bsh.g code generator](https://www.linkedin.com/company/bshg/)
+- **Email:** [bsh.generator@gmail.com](mailto:bsh.generator@gmail.com)
 
 Thank you for choosing the Software Project Generator **BSH.G**! We’re excited to help you bring your ideas to life! 💻✨
+
+### Author: Bousalih Hamza
+- [on GitHub](https://github.com/hamza-bousalih)
+- [on linkedin](https://www.linkedin.com/in/hamza-bousalih)

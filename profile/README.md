@@ -22,10 +22,11 @@ Ready to transform the way you approach software development? Visit our website 
 If you have any questions or need assistance, feel free to reach out:
 
 - **Web Site:** [@bsh.generator](https://www.bshgen.com)
-- **Documentaion:** [@bsh.generator](https://docs.bshgen.com)
-- **Instagram:** [@bsh.generator](https://www.instagram.com/bsh.generator/)
-- **LinkedIn:** [bsh.g code generator](https://www.linkedin.com/company/bshg/)
 - **Email:** [bsh.generator@gmail.com](mailto:bsh.generator@gmail.com)
+- **LinkedIn:** [@BSH.G](https://www.linkedin.com/company/bshg/)
+- **Instagram:** [@bsh.generator](https://www.instagram.com/bsh.generator/)
+- **NPM:** [@bshg](https://www.npmjs.com/org/bshg)
+- **Documentaion:** [@bsh.generator](https://docs.bshgen.com)
 
 Thank you for choosing the Software Project Generator **BSH.G**! We’re excited to help you bring your ideas to life! 💻✨
 

@@ -1,4 +1,4 @@
-# BSH.G Project Generator
+# BSH Solutions
 
 - **Web Site:** [https://docs.bousalih.com](https://docs.bousalih.com)
 - **Email:** [bsh.generator@gmail.com](mailto:bsh.generator@gmail.com)
